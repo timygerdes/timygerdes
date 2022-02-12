@@ -22,7 +22,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://github.com/timygerdes/timygerdes">
-      <img src="https://https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=black&style=for-the-badge" alt="GitHub Badge"/>
+      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=timygerdes&style=flat-square&color=blue" alt=""/>
