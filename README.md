@@ -45,7 +45,7 @@ I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 
 - :zap: In my free time, I solve problems on LeetCode or work on one of my own projects.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tim-y-gerdes)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tim_Gerdes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tim-y-gerdes)
 
 ---
 
