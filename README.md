@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
 
-- :telescope: I’m studying to become a Software Engineer.
+- :telescope: I’m studying to become a Software Developer.
 
 - :seedling: Exploring AR/VR/MR.
 
