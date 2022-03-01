@@ -19,8 +19,8 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/tim-y-gerdes/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://github.com/timygerdes/timygerdes">
-      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <a href="www.timgerdes.de">
+      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=timygerdes&style=flat-square&color=blue" alt=""/>
