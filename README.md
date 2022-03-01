@@ -20,7 +20,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="www.timgerdes.de">
-      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress Badge"/>
+      <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=timygerdes&style=flat-square&color=blue" alt=""/>
